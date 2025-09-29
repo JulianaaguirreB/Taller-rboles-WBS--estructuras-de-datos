@@ -1,0 +1,6 @@
+0 -1 Proyecto 0 0
+1 0 Fase1 0 0
+2 0 Fase2 0 0
+3 1 Actividad1 600 6
+4 1 Actividad2 400 4
+5 2 Actividad3 500 5
